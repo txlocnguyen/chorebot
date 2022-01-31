@@ -2,6 +2,11 @@ body {
     background-color: #010165;
     margin: 0px;
   }
-#door1{
+  .header{
+    background-color: #00ffff;
+    text-align: center;
+  }
+.door-frame{
     cursor: pointer;
+    padding: 10px;
 }
